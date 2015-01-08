@@ -1,6 +1,7 @@
 /* 
-Hello Universe program 
-Author: Harshit Sanghvi */
+Hello Universe program
+Author: Harshit Sanghvi
+*/
 
 #include<stdio.h>
 
