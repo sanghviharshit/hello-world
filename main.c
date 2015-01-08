@@ -1,5 +1,5 @@
 /* 
-Hello World program 
+Hello Universe program
 Author: Harshit Sanghvi
 */
 
@@ -7,6 +7,6 @@ Author: Harshit Sanghvi
 
 main()
 {
-    printf("Hello World");
+    printf("Hello Universe");
 
 }
