@@ -5,8 +5,8 @@ Author: Harshit Sanghvi
 
 #include<stdio.h>
 
-main()
+int main()
 {
     printf("Hello Universe");
-
+    return 0;
 }
